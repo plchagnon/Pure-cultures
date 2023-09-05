@@ -17,7 +17,7 @@ Pour générer des spores fraîches par cultures pièges, et maintenir nos cultu
 <br>
 
 <p align="center">
-  <img src="./Pure culture growing tubes.png" width=300  />
+  <img src="./Pure culture growing tubes.png" width=500  />
 </p>
 
 <br>
